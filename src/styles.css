@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+body {
+    background-color: #e0e9be;
+}
+
+#supertitle {
+    font-family: 'FF Mark', sans-serif;
+    font-weight: 900;
+    font-size: 62px;
+    text-transform: uppercase;
+    line-height: 62px;
+    letter-spacing: -4px;
+}
+
+#title {
+    font-family: 'FF Mark', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    text-transform: uppercase;
+    line-height: 62px;
+    letter-spacing: -4px;
+}
+
+#smoltitle {
+    font-family: 'FF Mark', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 62px;
+    letter-spacing: -3px;
+}
+
+#subtitle {
+    font-family: 'FF Mark', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.first_content {
+    text-align: center;
+}
+
+.content {
+    font-family: 'FF Mark', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.education {
+    text-align: center;
+}
+
+.xpskills {
+    text-align: center;
+}
+
+.contacts {
+    text-align: center;
+}
